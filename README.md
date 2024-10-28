@@ -34,3 +34,8 @@ To get started with Docmost, please refer to our [documentation](https://docmost
 
 ### Contributing 
 See the [development documentation](https://docmost.com/docs/self-hosting/development)
+
+
+### 账号密码
+admin@admin.com
+Abcd123456
