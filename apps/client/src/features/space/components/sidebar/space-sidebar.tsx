@@ -136,7 +136,7 @@ export function SpaceSidebar() {
           </div>
         </div>
 
-        <div className={classes.section}>
+        <div className={clsx(classes.section, classes.sectionPages)}>
           <Group className={classes.pagesHeader} justify="space-between">
             <Text size="xs" fw={500} c="dimmed">
               {t("Pages")}
